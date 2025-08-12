@@ -39,7 +39,8 @@ I'm a passionate developer who loves exploring the intersection of technology an
 </div>
 
 ![Cool Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-![Snake (dark)](https://raw.githubusercontent.com/<OWNER>/<REPO>/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake (light)](https://raw.githubusercontent.com/ReallyFloppyPenguin/ReallyFloppyPenguin/manual-run-output/only-svg/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake (dark)](https://raw.githubusercontent.com/ReallyFloppyPenguin/ReallyFloppyPenguin/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## 🎯 Current Focus
 ![Cool Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
