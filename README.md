@@ -39,8 +39,7 @@ I'm a passionate developer who loves exploring the intersection of technology an
 </div>
 
 ![Cool Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReallyFloppyPenguin/ReallyFloppyPenguin/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReallyFloppyPenguin/ReallyFloppyPenguin/manual-run-output/only-svg/github-contribution-grid-snake.svg" />
+![Snake (dark)](https://raw.githubusercontent.com/<OWNER>/<REPO>/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## 🎯 Current Focus
 ![Cool Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
@@ -61,7 +60,6 @@ I'm a passionate developer who loves exploring the intersection of technology an
   </a>
 </div>
 
-![Wave](https://camo.githubusercontent.com/f807ffebb3eea340b33f49e8492486b299dce7747c47caebaf2c401c0383dd9c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d356364636634266865696768743d3132302673656374696f6e3d666f6f746572)
 
 ![Cool Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
@@ -71,3 +69,5 @@ I'm a passionate developer who loves exploring the intersection of technology an
   <p>⭐ Star this repo if you found it helpful!</p>
   <p>Follow Me.........</p>
 </div>
+
+![Wave](https://camo.githubusercontent.com/f807ffebb3eea340b33f49e8492486b299dce7747c47caebaf2c401c0383dd9c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d356364636634266865696768743d3132302673656374696f6e3d666f6f746572)
