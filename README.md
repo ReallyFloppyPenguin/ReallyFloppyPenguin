@@ -7,10 +7,11 @@
 
 I'm a passionate developer who loves exploring the intersection of technology and creativity. Here's what gets me outta bed:
 
-- ❤️ **Languages**: `Python`, `JavaScript`, `TypeScript`
+- ❤️ **Languages**: `Python`, `JavaScript`, `TypeScript`, `HTML`, `CSS`
 - 🎯 **Interests**: Building browsers, ethical hacking, data collection, and AI development
 - **Collaboration**: Always open to contributing to interesting open source projects
 - 🎨 **Philosophy**: PHP is (*a lot*) older than dinosaurs, but that doesn't mean we can't make cool things with modern tech!
+- ⚽ **Football** I support **🐦‍🔥 LFC 🐦‍🔥**. Man U is an excuse for a football team.
 
 ## 🛠️ Tech Stack
 
@@ -64,10 +65,8 @@ I'm a passionate developer who loves exploring the intersection of technology an
 
 ![Cool Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
----
 
 <div align="center">
-  <p>⭐ Star this repo if you found it helpful!</p>
   <p>Follow Me.........</p>
 </div>
 
