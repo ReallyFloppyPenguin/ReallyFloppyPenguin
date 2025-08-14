@@ -11,7 +11,7 @@ I'm a passionate developer who loves exploring the intersection of technology an
 - 🎯 **Interests**: Building browsers, ethical hacking, data collection, and AI development
 - **Collaboration**: Always open to contributing to interesting open source projects
 - 🎨 **Philosophy**: PHP is (*a lot*) older than dinosaurs, but that doesn't mean we can't make cool things with modern tech!
-- ⚽ **Football** I support **🐦‍🔥 LFC 🐦‍🔥**. Man U is an excuse for a football team.
+- ⚽ **Football**: I support **🐦‍🔥 LFC 🐦‍🔥**. Man U is an excuse for a football team.
 
 ## 🛠️ Tech Stack
 
