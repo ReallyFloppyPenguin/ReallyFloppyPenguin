@@ -1,6 +1,9 @@
 # 👋 Hi, I'm ReallyFloppyPenguin! 🐧
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Hi%2C+I%27m+ReallyFloppyPenguin!+🐧)](https://github.com/ReallyFloppyPenguin)
+
+
 ![Cool Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ## 🚀 About Me
 ![Cool Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
