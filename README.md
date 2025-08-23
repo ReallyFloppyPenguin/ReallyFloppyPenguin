@@ -70,8 +70,10 @@ Soniox STT is SOTA + GOAT + KING
 ![Snake (light)](https://raw.githubusercontent.com/ReallyFloppyPenguin/ReallyFloppyPenguin/manual-run-output/only-svg/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Snake (dark)](https://raw.githubusercontent.com/ReallyFloppyPenguin/ReallyFloppyPenguin/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+
+
 ## 🎯 Current Focus
-![Cool Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 - 🔍 **Building Browsers**: Exploring web technologies and browser development
 - 🧑‍💻 **Ethical Hacking**: Learning cybersecurity and penetration testing
 - 📊 **Data Collection**: Working with APIs and data processing
@@ -80,6 +82,11 @@ Soniox STT is SOTA + GOAT + KING
 - ☁️ **Cloud Computing**: Working with RunPod for AI/ML workloads
 
 ![Cool Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
+
+## How i do it?
+I use [Cursor AI IDE](https://cursor.com)
+
 
 ## 🔗 Connect With Me
 
