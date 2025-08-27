@@ -38,8 +38,9 @@ I'm a passionate developer who loves exploring the intersection of technology an
 ![RunPod](https://img.shields.io/badge/-RunPod-00A3FF?style=flat-square&logo=runpod&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Views](https://komarev.com/ghpvc/?username=ReallyFloppyPenguin&label=Profile%20views&color=0e75b6&style=flat-square)
 
+![Views](https://komarev.com/ghpvc/?username=ReallyFloppyPenguin&label=Profile%20views&color=0e75b6&style=flat-square)
+![Watchers](https://img.shields.io/github/watchers/ReallyFloppyPenguin/ReallyFloppyPenguin)
 
 ![Cool Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
