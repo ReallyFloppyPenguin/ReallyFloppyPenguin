@@ -23,8 +23,6 @@ I'm a passionate developer who loves exploring the intersection of technology an
 🔹🎨 **Philosophy**: PHP is (*a lot*) older than dinosaurs, but that doesn't mean we can't make cool things with modern tech!
 
 
-🔹⚽ **Football**: I support **🐦‍🔥 LFC 🐦‍🔥**. Man U is an excuse for a football team.
-
 🔹🤖 **AI**: I am an active AI Engineer. Find me on:  🔹<a href="https://huggingface.co/ReallyFloppyPenguin" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" /></a>🔹
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
