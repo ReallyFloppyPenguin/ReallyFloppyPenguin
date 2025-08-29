@@ -64,7 +64,7 @@ Soniox STT is SOTA + GOAT + KING
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReallyFloppyPenguin&theme=gruvbox" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy-working.vercel.app/?username=ReallyFloppyPenguin&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=ReallyFloppyPenguin&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ![Cool Animation](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
